@@ -8,6 +8,7 @@ def main():
         mode: 默认daily
         'daily': 每日 'weekly': 每周 'monthly'：本月
         'male': 受男性欢迎 'female': 受女性欢迎  'rookie'：新人  'original'：原创
+        'daily_r18'、'weekly_r18'、'male_r18'、'female_r18'均为对应r18标签
 
         date：默认前一天。格式：'yyyymmdd'
     """
