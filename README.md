@@ -7,4 +7,8 @@
  
  非科班出身，纯自学，该项目同时作为学习记录，代码不一定规范还请见谅= =
  
- 更新：PixivCrawler4.0实现手动携带cookie访问，cookie可能会过期
+ 20200921更新：PixivCrawler4实现手动携带cookie访问，cookie可能会过期
+
+ 20200930更新：PixivCrawler4新增获取某画师所有插画功能；重新整理了PixivCrawler()中的方法，使其可以在外部调用
+ 
+ 
